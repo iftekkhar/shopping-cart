@@ -38,7 +38,8 @@ body{
     width: 65px;
     border-radius: 10px!important;
     font-weight: 700;
-    font-size: 20px;
+	font-size: 20px;
+	margin: 0 10px
 }
 .input-group{
 	width: unset;
